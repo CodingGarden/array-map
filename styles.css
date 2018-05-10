@@ -1,0 +1,25 @@
+.reveal {
+  font-size: 1.7em !important
+}
+
+code.hljs {
+  padding: 0.5em !important;
+  font-size: 3.5em !important;
+  line-height: 1em !important;
+}
+
+img {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: auto !important;
+  max-height: 500px !important;
+}
+
+.dark-bg {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.reveal blockquote {
+  font-style: normal;
+}
